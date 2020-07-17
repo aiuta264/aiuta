@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【钟羊】寂兮寥兮
+title: 寂兮寥兮
 date: 2016-04-26
 Author: 愛唄
 categories: 
