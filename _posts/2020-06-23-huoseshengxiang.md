@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【超瓜羯末】活色生香
+title: 活色生香
 date: 2020-06-23
 Author: 愛唄
 categories: 
-tags: [魏晋南北朝, 历史同人, 超玄, 瓜末, 郗超, 王珣, 谢玄, 谢琰]
+tags: [魏晋南北朝, 历史同人, 超玄, 珣琰, 郗超, 王珣, 谢玄, 谢琰]
 comments: true
 --- 
 
