@@ -4,4 +4,4 @@ title: 关于
 permalink: /about/
 ---
 
-「ねえ、大好きな君へ」
+托体同山阿。
