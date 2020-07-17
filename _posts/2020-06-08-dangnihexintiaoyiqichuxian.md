@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【钟羊陆】当你和心跳一起出现
+title: 当你和心跳一起出现
 date: 2020-06-08
 Author: 愛唄
 categories: 
