@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【丕权】岁月无穷极
+title: 岁月无穷极
 date: 2015-08-30
 Author: 愛唄
 categories: 
