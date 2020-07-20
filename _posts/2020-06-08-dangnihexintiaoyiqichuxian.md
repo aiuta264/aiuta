@@ -4,7 +4,7 @@ title: 当你和心跳一起出现
 date: 2020-06-08
 Author: 愛唄
 categories: 
-tags: [魏晋南北朝, 历史同人, 钟羊, 羊陆, 钟会, 羊祜, 杜预, 陆抗]
+tags: [魏晋南北朝, 历史同人, 钟会, 羊祜, 杜预, 陆抗]
 comments: true
 ---
 
