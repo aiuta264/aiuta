@@ -4,7 +4,7 @@ title: 关于
 permalink: /about/
 ---
 
-托体同山阿。
+礼岂为我辈设也(゜∇。)
 
 <br>
 
