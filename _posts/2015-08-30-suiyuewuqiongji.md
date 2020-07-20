@@ -4,7 +4,7 @@ title: 岁月无穷极
 date: 2015-08-30
 Author: 愛唄
 categories: 
-tags: [魏晋南北朝, 历史同人, 丕权, 曹丕, 孙权]
+tags: [魏晋南北朝, 历史同人, 曹丕, 孙权]
 comments: true
 --- 
 
